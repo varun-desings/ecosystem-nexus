@@ -27,7 +27,7 @@ const Home = () => {
               {/* Left Content */}
               <div className="text-center lg:text-left animate-fade-in">
                 <h1 className="hero-title text-4xl md:text-6xl font-bold text-cosmic-foreground mb-6 leading-tight">
-                  Digital <span className="text-accent animate-glow">Nervous</span> System
+                  Digital <span className="text-accent">Nervous</span> System
                   <br />
                   <span className="text-2xl md:text-4xl font-normal text-cosmic-foreground/80">
                     of the Planet
