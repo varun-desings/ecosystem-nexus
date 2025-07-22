@@ -96,6 +96,13 @@ export default {
 					foreground: 'hsl(var(--contact-foreground))'
 				}
 			},
+			boxShadow: {
+				'glow': '0 0 40px hsl(var(--accent) / 0.3)',
+				'glass': '0 8px 32px rgba(0, 0, 0, 0.3)',
+			},
+			backdropBlur: {
+				'glass': '10px',
+			},
 			borderRadius: {
 				lg: 'var(--radius)',
 				md: 'calc(var(--radius) - 2px)',
